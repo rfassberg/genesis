@@ -1,0 +1,2 @@
+# genesis
+My first repository
